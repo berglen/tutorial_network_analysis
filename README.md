@@ -5,3 +5,6 @@ This folder contains a tutorial to (social) network analyisis in Python. The tur
 # Contents
 * *Introduction_to_network_analysis* contains the tutorial as Jupyter Notebook
 * *graphs* contains the graphs used in the Jupyter Notebook
+
+# Usage
+Everyone is free to use the material in this repository. If you use this material as a whole or in parts in your own work (e.g., teaching), please include appropriate citations. Thanks and enjoy the tutorial. 
