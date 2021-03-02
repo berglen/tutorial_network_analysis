@@ -7,4 +7,4 @@ This folder contains a tutorial to (social) network analyisis in Python. The tur
 * *graphs* contains the graphs used in the Jupyter Notebook
 
 # Usage
-Everyone is free to use the material in this repository. If you use this material as a whole or in parts in your own work (e.g., teaching), please include appropriate citations. Thanks and enjoy the tutorial. 
+Everyone is free to use the material in this repository. If you use this material as a whole or in parts in your own work (e.g., presenation, teaching), please include appropriate citations. Thanks and enjoy the tutorial! 
